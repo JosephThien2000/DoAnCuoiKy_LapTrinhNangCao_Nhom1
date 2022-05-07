@@ -3,12 +3,12 @@
 <h2> Đề án cuối kỳ môn lập trình nâng cao - Tkinter Python </h2>
 
 <h1><strong>Thành viên</strong> </h1>
-<p> 1. Nguyễn Thái Minh Thiện </p>
-<p>2. Võ Thị Mai Hoa</p>
-<p>3. Phạm Trần Quốc Duy</p>
-<p>4. Mã Hoàng Khôi</p>
-<p>5. Nguyễn Bảo Thành</p>
-<p>6. Lê Nhã Hân</p>
+<p>1. Nguyễn Thái Minh Thiện - 2000004762</p>
+<p>2. Võ Thị Mai Hoa - 2000005302</p>
+<p>3. Phạm Trần Quốc Duy - 2000003127</p>
+<p>4. Mã Hoàng Khôi - 2000006018</p>
+<p>5. Nguyễn Bảo Thành - 2000000655</p>
+<p>6. Lê Nhã Hân - 2011549746</p>
 
 <h1><strong>Cách thức hoạt động</strong></h1>
 
