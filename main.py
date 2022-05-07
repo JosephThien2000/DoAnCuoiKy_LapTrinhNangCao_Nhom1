@@ -12,16 +12,12 @@ from time import sleep
 import os
 from tkinter import *
 from tkinter import ttk
-from tkinter.messagebox import showinfo
-from calendar import month_name
-from datetime import datetime
-from bs4 import BeautifulSoup
 import urllib.request
 from PIL import Image
 import requests # cho phép bạn gửi HTTP thông qua Python
 import re
 import os # thư viện này cho phép thao tác với các thư mục và tệp
-from XuLyFile import *
+# from XuLyFile import *
 import pandas as pd
 
 
